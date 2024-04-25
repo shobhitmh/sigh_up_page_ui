@@ -1,6 +1,5 @@
 # Flutter Sign-Up Page
 
-![Flutter Logo](https://flutter.dev/images/flutter-logo-sharing.png)
 
 This repository contains the source code for a sign-up page built using Flutter. The sign-up page allows users to create new accounts by providing their email address, password, and other necessary information.
 
