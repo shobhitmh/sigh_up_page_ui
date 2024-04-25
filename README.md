@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 2. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/flutter-sign-up-page.git
+   git clone https://github.com/shobhitmh/sign_up_page_ui-Flutter-.git
    ```
 3. Navigate to the project directory:
 
